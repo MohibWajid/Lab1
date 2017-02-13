@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        textViewEmail = (TextView) findViewById(R.id.editText4);
+        textViewEmail = (TextView) findViewById(R.id.editText3);
 
         loadSavedLogin();
 
