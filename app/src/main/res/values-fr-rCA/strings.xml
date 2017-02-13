@@ -5,4 +5,9 @@
     <string name="ButtonText">I\'m a button</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="LoginName">Login</string>
+    <string name="finishActivityMessage">Fin!</string>
+    <string name="finishActivityTitle">Fin!</string>
+    <string name="ok">Ok!</string>
+    <string name="cancel">Annule!</string>
+    <string name="StartChat">Démarrer la discussion</string>
 </resources>
