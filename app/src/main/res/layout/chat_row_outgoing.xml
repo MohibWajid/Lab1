@@ -14,7 +14,7 @@
     <TextView
         android:text="TextView"
         android:layout_width="wrap_content"
-        android:weight="1"
+        android:layout_weight="1"
         android:gravity="right"
         android:layout_height="wrap_content"
         android:id="@+id/textChat" />

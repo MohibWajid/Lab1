@@ -9,4 +9,22 @@
     <string name="ok">Ok!</string>
     <string name="cancel">Cancel!</string>
     <string name="StartChat">Start Chat</string>
+    <string name="currentTempText">Current Temperature</string>
+    <string name="minTempText">Minimum Temperature</string>
+    <string name="maxTempText">Maximum Temperature</string>
+    <string name="messageHere">MessageHere</string>
+    <string name="IDHere">ID=</string>
+    <string name="deleteThisMessage">Delete This Message</string>
+    <string name="sendButtonText">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="airport">Airport</string>
+    <string name="car">Car</string>
+    <string name="boots">Boot</string>
+    <string name="star">Star</string>
+    <string name="about">About</string>
+    <string name="dialogTitle">Do you want to go back?</string>
+    <string name="dialogPositiveButton">Yes</string>
+    <string name="diaglogNegativeButton">No</string>
+    <string name="dialogMessage">Type a message</string>
+
 </resources>

@@ -10,4 +10,8 @@
     <string name="ok">Ok!</string>
     <string name="cancel">Annule!</string>
     <string name="StartChat">Démarrer la discussion</string>
+    <string name="currentTempText">Current Temperature</string>
+    <string name="minTempText">Minimum Temperature</string>
+    <string name="maxTempText">Maximum Temperature</string>
+
 </resources>
